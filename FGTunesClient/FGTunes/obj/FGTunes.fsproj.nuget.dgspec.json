@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Karina\\Desktop\\Proyectos\\PROYECTO GoFSharp\\FGTunesClient\\FGTunes\\FGTunes.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Karina\\Desktop\\Proyectos\\PROYECTO GoFSharp\\FGTunesClient\\FGTunes\\FGTunes.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karina\\Desktop\\Proyectos\\PROYECTO GoFSharp\\FGTunesClient\\FGTunes\\FGTunes.fsproj",
+        "projectName": "FGTunes",
+        "projectPath": "C:\\Users\\Karina\\Desktop\\Proyectos\\PROYECTO GoFSharp\\FGTunesClient\\FGTunes\\FGTunes.fsproj",
+        "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karina\\Desktop\\Proyectos\\PROYECTO GoFSharp\\FGTunesClient\\FGTunes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Users\\Karina\\.dotnet\\sdk\\6.0.418\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[0.10.12, )",
+              "generatePathProperty": true
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[0.10.12, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.7, )",
+              "generatePathProperty": true
+            },
+            "JaggerJo.Avalonia.FuncUI": {
+              "target": "Package",
+              "version": "[0.5.0, )",
+              "generatePathProperty": true
+            },
+            "JaggerJo.Avalonia.FuncUI.DSL": {
+              "target": "Package",
+              "version": "[0.5.0, )",
+              "generatePathProperty": true
+            },
+            "JaggerJo.Avalonia.FuncUI.Elmish": {
+              "target": "Package",
+              "version": "[0.5.0, )",
+              "generatePathProperty": true
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )",
+              "generatePathProperty": true
+            },
+            "NLayer": {
+              "target": "Package",
+              "version": "[1.14.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Karina\\.dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

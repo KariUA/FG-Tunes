@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a19aab9-81e6-4b90-ad7d-f121c52eb277" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpotiGo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpotiGo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpotiGo/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpotiGo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpotiGo/Server/playHistory.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Client/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/SpotiGo/Server/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/SpotiGo/Server/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/player.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/SpotiGo/Server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/BlackRover_BC.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/GO_NS.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/HarukaKanata_NS.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/QueTeParece_MirandaLeon.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/Silhouette_NS.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/Sparkle_YourName.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotiGo/Server/songs/Suzume_Soundtrack.mp3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpotiGo" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SpotiGo/Client/main.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UnhBvVzRjS7f5Nw6eEJHjVIc4y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Go Build.go build cliente/SpotiGo/Client.executor": "Run",
+    "Go Build.go build server.go.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/Karina/Desktop/Proyectos/PROYECTO GoFSharp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go Build.go build server.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="PROYECTO GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build cliente/SpotiGo/Client" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PROYECTO GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="cliente/SpotiGo/Client" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/SpotiGo/Client/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build server.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="PROYECTO GO" />
+      <working_directory value="$PROJECT_DIR$/SpotiGo/Server" />
+      <kind value="FILE" />
+      <package value="cliente" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/SpotiGo/Server/server.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="PROYECTO GO" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build server.go" />
+        <item itemvalue="Go Build.go build cliente/SpotiGo/Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-2946fb9b3188-155fe4b6e3a0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.14808.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a19aab9-81e6-4b90-ad7d-f121c52eb277" name="Changes" comment="" />
+      <created>1726111673728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726111673728</updated>
+      <workItem from="1726111676387" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

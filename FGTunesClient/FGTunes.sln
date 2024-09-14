@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FGTunes", "FGTunes\FGTunes.fsproj", "{9AF97E6A-15B1-4894-AD44-B29FF5D93EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF97E6A-15B1-4894-AD44-B29FF5D93EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF97E6A-15B1-4894-AD44-B29FF5D93EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF97E6A-15B1-4894-AD44-B29FF5D93EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF97E6A-15B1-4894-AD44-B29FF5D93EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

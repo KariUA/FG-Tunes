@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Karina\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Karina\.nuget\packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.0-preview.178\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.0-preview.178\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)harfbuzzsharp.nativeassets.webassembly\2.8.2-preview.178\buildTransitive\netstandard1.0\HarfBuzzSharp.NativeAssets.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)harfbuzzsharp.nativeassets.webassembly\2.8.2-preview.178\buildTransitive\netstandard1.0\HarfBuzzSharp.NativeAssets.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)avalonia\0.10.12\buildTransitive\Avalonia.props" Condition="Exists('$(NuGetPackageRoot)avalonia\0.10.12\buildTransitive\Avalonia.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNLayer Condition=" '$(PkgNLayer)' == '' ">C:\Users\Karina\.nuget\packages\nlayer\1.14.0</PkgNLayer>
+    <PkgNAudio Condition=" '$(PkgNAudio)' == '' ">C:\Users\Karina\.nuget\packages\naudio\2.2.1</PkgNAudio>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Karina\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.6</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Karina\.nuget\packages\fsharp.core\7.0.400</PkgFSharp_Core>
+    <PkgAvalonia Condition=" '$(PkgAvalonia)' == '' ">C:\Users\Karina\.nuget\packages\avalonia\0.10.12</PkgAvalonia>
+    <PkgAvalonia_Desktop Condition=" '$(PkgAvalonia_Desktop)' == '' ">C:\Users\Karina\.nuget\packages\avalonia.desktop\0.10.12</PkgAvalonia_Desktop>
+    <PkgJaggerJo_Avalonia_FuncUI Condition=" '$(PkgJaggerJo_Avalonia_FuncUI)' == '' ">C:\Users\Karina\.nuget\packages\jaggerjo.avalonia.funcui\0.5.0</PkgJaggerJo_Avalonia_FuncUI>
+    <PkgJaggerJo_Avalonia_FuncUI_Elmish Condition=" '$(PkgJaggerJo_Avalonia_FuncUI_Elmish)' == '' ">C:\Users\Karina\.nuget\packages\jaggerjo.avalonia.funcui.elmish\0.5.0</PkgJaggerJo_Avalonia_FuncUI_Elmish>
+    <PkgJaggerJo_Avalonia_FuncUI_DSL Condition=" '$(PkgJaggerJo_Avalonia_FuncUI_DSL)' == '' ">C:\Users\Karina\.nuget\packages\jaggerjo.avalonia.funcui.dsl\0.5.0</PkgJaggerJo_Avalonia_FuncUI_DSL>
+    <PkgAvalonia_Diagnostics Condition=" '$(PkgAvalonia_Diagnostics)' == '' ">C:\Users\Karina\.nuget\packages\avalonia.diagnostics\0.10.12</PkgAvalonia_Diagnostics>
+  </PropertyGroup>
+</Project>
